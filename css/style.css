@@ -435,3 +435,42 @@ nav a:hover::after{
     filter:blur(18px);
 
 }
+/* ===========================
+   HERO INFO
+=========================== */
+
+.hero-info{
+
+    display:flex;
+
+    gap:45px;
+
+    margin-top:55px;
+
+}
+
+.hero-info div{
+
+    display:flex;
+
+    flex-direction:column;
+
+}
+
+.hero-info strong{
+
+    font-size:1.35rem;
+
+    color:var(--secondary);
+
+    font-weight:700;
+
+}
+
+.hero-info span{
+
+    color:var(--text-light);
+
+    margin-top:6px;
+
+}
