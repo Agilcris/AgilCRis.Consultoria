@@ -1,32 +1,31 @@
-/* ===================================
-   AGILCRIS - VARIÁVEIS GLOBAIS
-=================================== */
 
 :root{
 
-    /* CORES */
+    /* Cores principais */
 
-    --azul-principal:#0E3A5D;
-    --azul-escuro:#08253C;
-    --dourado:#C7A14A;
-    --branco:#FFFFFF;
-    --cinza-claro:#F5F7FA;
-    --cinza:#E6EAF0;
-    --texto:#333333;
+    --primary:#0F4C81;
+    --primary-dark:#0B355A;
 
-    /* FONTES */
+    --secondary:#F59E0B;
+    --secondary-light:#FBBF24;
 
-    --fonte-titulo:'Poppins', sans-serif;
-    --fonte-texto:'Lato', sans-serif;
+    --accent:#FF7A00;
 
-    /* MEDIDAS */
+    --white:#FFFFFF;
 
-    --container:1200px;
+    --background:#F7F9FC;
 
-    --raio:12px;
+    --text:#23324A;
 
-    --transicao:.3s ease;
+    --text-light:#6B7280;
 
-    --sombra:0 12px 30px rgba(0,0,0,.10);
+    --border:#E5E7EB;
+
+    /* Sombras */
+
+    --shadow:
+    0 15px 40px rgba(15,76,129,.12);
+
+    --radius:18px;
 
 }
