@@ -1,1 +1,14 @@
 
+:root{
+    --azul:#0E3A5D;
+    --dourado:#C9A227;
+    --branco:#FFFFFF;
+    --cinza:#F5F5F5;
+    --texto:#333333;
+
+    --fonte-titulo:'Poppins',sans-serif;
+    --fonte-texto:'Lato',sans-serif;
+
+    --sombra:0 10px 30px rgba(0,0,0,.10);
+    --raio:12px;
+}
